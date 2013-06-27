@@ -29,6 +29,7 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 *.sdf
 *.opensdf
+ipch/
 _UpgradeReport_Files/
 *.old
 UpgradeLog*.XML
